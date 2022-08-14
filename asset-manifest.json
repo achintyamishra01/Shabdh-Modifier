@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Shabdh-Modifier/static/css/main.a617e044.chunk.css",
+    "main.js": "/Shabdh-Modifier/static/js/main.8ec1333c.chunk.js",
+    "main.js.map": "/Shabdh-Modifier/static/js/main.8ec1333c.chunk.js.map",
+    "runtime-main.js": "/Shabdh-Modifier/static/js/runtime-main.fc662582.js",
+    "runtime-main.js.map": "/Shabdh-Modifier/static/js/runtime-main.fc662582.js.map",
+    "static/js/2.519aff2e.chunk.js": "/Shabdh-Modifier/static/js/2.519aff2e.chunk.js",
+    "static/js/2.519aff2e.chunk.js.map": "/Shabdh-Modifier/static/js/2.519aff2e.chunk.js.map",
+    "static/js/3.d94669d2.chunk.js": "/Shabdh-Modifier/static/js/3.d94669d2.chunk.js",
+    "static/js/3.d94669d2.chunk.js.map": "/Shabdh-Modifier/static/js/3.d94669d2.chunk.js.map",
+    "index.html": "/Shabdh-Modifier/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Shabdh-Modifier/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.519aff2e.chunk.js.LICENSE.txt": "/Shabdh-Modifier/static/js/2.519aff2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc662582.js",
+    "static/js/2.519aff2e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.8ec1333c.chunk.js"
+  ]
+}
